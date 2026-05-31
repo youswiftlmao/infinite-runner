@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="infinite-runner"
+run/main_scene="uid://dgarrx5b36xik"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
 
